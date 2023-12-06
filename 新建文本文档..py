@@ -1,5 +1,5 @@
 docker swarm init --advertise-addr 192.168.100.11
-
+docker dpakssa
 worker01:docker swarm join --token ****
 
 worker02:docker swarm join --token ****
